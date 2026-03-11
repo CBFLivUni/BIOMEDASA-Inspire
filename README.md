@@ -4,12 +4,6 @@ BIOMEDASA-Inspire promotes data science careers to schoolchildren in the Liverpo
 begins in childhood, where children from disadvantaged backgrounds often lack access to home computers or role models in data professions. This work package delivers hands-on workshops through the 
 University of Liverpool's Widening Participation network and partner charity IntoUniversity, targeting approximately 180 children per year.
 
-<p align="center">
-  <img src="https://github.com/CBFLivUni/BIOMEDASA-Inspire/blob/main/imgs/Biomedasa_logo_1mb_.png?raw=true" 
-       alt="Project logo" 
-       width="200" />
-</p>
-
 ## Repository contents
 
 ### Key Stage 3
@@ -23,7 +17,7 @@ Sessions usually run in two halves (morning and afternoon) with groups of ~15 st
 <p align="center">
   <img src="https://github.com/CBFLivUni/BIOMEDASA-Inspire/blob/main/imgs/equipment.png?raw=true" 
        alt="Micro:bit and LEGO robot"
-       width="400" />
+       width="700" />
 </p>
 
 ### Key Stage 4
@@ -37,6 +31,14 @@ Notebooks are hosted via [mybinder](https://mybinder.org/). No installation is r
 
 ## About BIOMEDASA
 BIOMEDASA is an MRC funded project. Inspire is one of five work packages (Enhance, Nurture, Analyse, Reskill, Inspire), focused on widening participation at the school level.
+
+
+<p align="center">
+  <img src="https://github.com/CBFLivUni/BIOMEDASA-Inspire/blob/main/imgs/Biomedasa_logo_1mb_.png?raw=true" 
+       alt="Project logo" 
+       width="200" />
+</p>
+
 
 ## License
 [![CC BY 4.0][cc-by-shield]][cc-by]
