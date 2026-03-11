@@ -1,9 +1,13 @@
 # BIOMEDASA - Inspire
 
-This repository contains 
+This repository contains materials produced during the work package INSPIRE. 
 
 ## Key stage 3
-Contains 
+Contains materials for KS3 students (aged 11-14). These require the use of supporting equipment including [BBC micro:bits](https://microbit.org/) and [LEGO robots](https://spike.legoeducation.com/prime/lobby/).
+
+<p align="center">
+  <img src="https://github.com/CBFLivUni/BIOMEDASA-Inspire/blob/main/imgs/equipment.png" alt="Micro:bit and LEGO robot" />
+</p>
 
 ## Key stage 4
 
