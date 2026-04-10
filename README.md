@@ -8,7 +8,7 @@ University of Liverpool's [Widening Participation network](https://www.liverpool
 
 ## Repository contents
 
-### Key Stage 3
+### Key Stage 3 - robots and microbits
 Materials for KS3 students (aged 11–14). Students are split into groups and work through two hands-on programming activities:
 
 - **micro:bit activity** — students write and run programs on [BBC micro:bits](https://microbit.org/) using the browser-based block editor (Microsoft Edge required).
@@ -22,8 +22,7 @@ Sessions usually run in two halves (morning and afternoon) with groups of ~15 st
        width="700" />
 </p>
 
-### Key Stage 4
-#### Data science activity
+### Key Stage 4 - data science activity (animal ageing)
 Materials for KS4/GCSE students (aged 14–16). Students are introduced to data science and plotting using Python through an interactive Jupyter notebook activity based on animal ageing data.
 
 - **Student link (interactive):** [Launch on Binder](https://mybinder.org/v2/gh/CBFLivUni/scholars_event/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
@@ -32,8 +31,8 @@ Materials for KS4/GCSE students (aged 14–16). Students are introduced to data 
 
 Notebooks are hosted via [mybinder](https://mybinder.org/). No installation is required for students. **This activity can be ran anywhere with a computer suite. No specialist equipment is required either. These materials can be deployed anywhere with a computer suite.**
 
-#### LEGO robot python programming
-This activity was supported by an additional TSN ROKS grant [(Outreach Demonstrator Fund)](https://itss.org.uk/tsn/tsn-roks-opportunities/outreach-demonstrator-fund/). It is a workshop that lasts 1.5-2 hrs and introduces KS4-KS5 students to programming using Python scripting.
+### Key Stage 4 - LEGO robot python programming
+This activity was supported by an additional TSN ROKS grant [(Outreach Demonstrator Fund)](https://itss.org.uk/tsn/tsn-roks-opportunities/outreach-demonstrator-fund/), allowing us to purchase equipment to support a new activity. It is a workshop that lasts 1.5-2 hrs and introduces KS4-KS5 students to programming using Python scripting.
 The materials should be printed out and then students should work in groups of two, using a paired programming approach. As previously students program the robots using the [LEGO SPIKE Prime app](https://spike.legoeducation.com/prime/lobby/).
 
 ## About BIOMEDASA
