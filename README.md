@@ -23,13 +23,18 @@ Sessions usually run in two halves (morning and afternoon) with groups of ~15 st
 </p>
 
 ### Key Stage 4
+#### Data science activity
 Materials for KS4/GCSE students (aged 14–16). Students are introduced to data science and plotting using Python through an interactive Jupyter notebook activity based on animal ageing data.
 
 - **Student link (interactive):** [Launch on Binder](https://mybinder.org/v2/gh/CBFLivUni/scholars_event/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
 - **Teacher link (with answers):** [Launch on Binder](https://mybinder.org/v2/gh/CBFLivUni/scholars_event/0e2e1f39a4c0d8f4d43c8ebf6c332cd1bb73022b?urlpath=lab%2Ftree%2Fall_code.ipynb)
 - **Static reference page:** [GitHub Pages](https://cbflivuni.github.io/animal_ageing/index.html)
 
-Notebooks are hosted via [mybinder](https://mybinder.org/). No installation is required for students. **No specialist equipment is required either. These materials can be deployed anywhere with a computer suite.**
+Notebooks are hosted via [mybinder](https://mybinder.org/). No installation is required for students. **This activity can be ran anywhere with a computer suite. No specialist equipment is required either. These materials can be deployed anywhere with a computer suite.**
+
+#### LEGO robot python programming
+This activity was supported by an additional TSN ROKS grant [(Outreach Demonstrator Fund)](https://itss.org.uk/tsn/tsn-roks-opportunities/outreach-demonstrator-fund/). It is a workshop that lasts 1.5-2 hrs and introduces KS4-KS5 students to programming using Python scripting.
+The materials should be printed out and then students should work in groups of two, using a paired programming approach. As previously students program the robots using the [LEGO SPIKE Prime app](https://spike.legoeducation.com/prime/lobby/).
 
 ## About BIOMEDASA
 BIOMEDASA is an MRC funded project. Inspire is one of five work packages (Enhance, Nurture, Analyse, Reskill, Inspire), focused on widening participation at the school level.
